@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":10,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350216.jpg?t=st=1723822004~exp=1723825604~hmac=6ac65a0d773985429a1fd7e1bc1a39f5a919f9a622e677cdc8f7529623418664&w=740"
+
+    },
+
+    {
+       "id":2,
+        "name":"Comedy Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350216.jpg?t=st=1723822004~exp=1723825604~hmac=6ac65a0d773985429a1fd7e1bc1a39f5a919f9a622e677cdc8f7529623418664&w=740"
+    },
+
+    {
+       "id":3,
+        "name":"Sports Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350216.jpg?t=st=1723822004~exp=1723825604~hmac=6ac65a0d773985429a1fd7e1bc1a39f5a919f9a622e677cdc8f7529623418664&w=740"
+    },
+
+    {
+       "id":4,
+        "name":"Music Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":80,
+        "category":"Songs",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350216.jpg?t=st=1723822004~exp=1723825604~hmac=6ac65a0d773985429a1fd7e1bc1a39f5a919f9a622e677cdc8f7529623418664&w=740"
+    },
+
+    {
+        "id":5,
+         "name":"Food Book",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+         "price":60,
+         "category":"Food",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149350216.jpg?t=st=1723822004~exp=1723825604~hmac=6ac65a0d773985429a1fd7e1bc1a39f5a919f9a622e677cdc8f7529623418664&w=740"
+     }
+]
